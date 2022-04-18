@@ -198,3 +198,12 @@ less和css非常像，less仅对css语言增加了少许方便的扩展。具体
 当使用vue-router时，如果不同的路由使用了相同组件实例，router会自动复用实例。因为组件复用的关系，created函数在路由切换的时候不会重复执行。
 如果需要在路由切换的时候更新数据，需要watch路由变化，并做响应的数据更新。
 本项目的二级菜单都复用了Main组件
+
+## 推荐的前端组件
+1. 甘特图
+- https://link.juejin.cn/?target=https%3A%2F%2Fgithub.com%2Fw1301625107%2FVue-Gantt-chart
+- https://link.juejin.cn/?target=https%3A%2F%2Fgithub.com%2Fneuronetio%2Fvue-gantt-elastic
+- https://link.juejin.cn/?target=https%3A%2F%2Fgithub.com%2FInfectoOne%2Fvue-ganttastic
+- https://link.juejin.cn/?target=https%3A%2F%2Fgithub.com%2FFEMessage%2Fv-gantt
+- https://link.juejin.cn/?target=https%3A%2F%2Fgithub.com%2Fhql7%2Fwl-gantt
+- 参考 https://juejin.cn/post/7006883646795677726#heading-3
